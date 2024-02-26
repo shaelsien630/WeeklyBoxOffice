@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kobisApiKey</key>
+	<string>6b2e4c74b59daa0fe1471d53e7648702</string>
+	<key>omdbApiKey</key>
+	<string>7c3ba236</string>
+</dict>
+</plist>
